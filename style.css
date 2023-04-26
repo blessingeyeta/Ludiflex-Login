@@ -57,12 +57,12 @@ header{
     background: rgba(255, 255, 255, 0.1);
 }
 
- i{
+ /*i{
     position: relative;
     top: -33px;
     left: 17px;
     color: white;
-}
+}*/
 
 ::-webkit-input-placeholder{
     color: white;
